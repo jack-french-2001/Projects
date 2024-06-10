@@ -1,0 +1,209 @@
+;;;;;;;;Playing Time;Playing Time;Playing Time;;Performance;Performance;Performance;Performance;Performance;Performance;Performance;Performance;Performance;Performance;Penalty Kicks;Penalty Kicks;Penalty Kicks;Penalty Kicks;Penalty Kicks;;#NAME?
+Rk;Player;Nation;Pos;Squad;Comp;Age;Born;MP;Starts;Min;90s;GA;GA90;SoTA;Saves;Save%;W;D;L;CS;CS%;PKatt;PKA;PKsv;PKm;Save%;Matches;-9999
+ Rk; Player; Nation; Pos; Squad; Comp; Age; Born;Playing Time MP;Playing Time Starts;Playing Time Min; 90s;Performance GA;Performance GA90;Performance SoTA;Performance Saves;Performance Save%;Performance W;Performance D;Performance L;Performance CS;Performance CS%;Penalty Kicks PKatt;Penalty Kicks PKA;Penalty Kicks PKsv;Penalty Kicks PKm;Penalty Kicks Save%; Matches;#NAME?
+1;Antonio Adán;es ESP;GK;Betis;es La Liga;30;1987;30;30;2700;30.0;1.77;1.77;4.40;2.73;62.1;0.47;0.13;0.40;0.30;30.0;0.13;0.10;0.03;0.00;25.0;Matches;65d62814
+2;René Adler;de GER;GK;Mainz 05;de Bundesliga;32;1985;14;14;1260;14.0;1.29;1.29;3.79;2.50;67.9;0.36;0.21;0.43;0.29;28.6;0.14;0.07;0.00;0.07;0.0;Matches;f71890f5
+3;Adrián;es ESP;GK;West Ham;eng Premier League;30;1987;19;19;1710;19.0;1.53;1.53;5.05;3.58;70.8;0.37;0.32;0.32;0.32;31.6;0.05;0.05;0.00;0.00;0.0;Matches;f76e6b4e
+4;Alisson;br BRA;GK;Roma;it Serie A;24;1992;37;37;3330;37.0;0.76;0.76;3.65;2.84;81.5;0.59;0.22;0.19;0.46;45.9;0.14;0.08;0.05;0.00;40.0;Matches;7a2e46a8
+5;Sergio Álvarez;es ESP;GK;Celta Vigo;es La Liga;30;1986;17;16;1475;16.4;1.77;1.77;4.57;2.87;62.7;0.18;0.37;0.43;0.18;18.8;0.06;0.06;0.00;0.00;0.0;Matches;8875b8c9
+6;Ibrahim Amadou;fr FRA;MFDF;Lille;fr Ligue 1;24;1993;1;0;17;26.7;0.07;10.59;0.11;0.04;66.7;0.00;0.00;0.00;0.00;;0.04;0.04;0.00;0.00;0.0;Matches;9260926b
+7;Jon Ander Serantes;es ESP;GK;Leganés;es La Liga;27;1989;1;1;90;1.0;2.00;2.00;8.00;6.00;75.0;1.00;0.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;983ccabe
+8;Nícolas Andrade;br BRA;GK;Hellas Verona;it Serie A;29;1988;36;36;3240;36.0;1.97;1.97;6.47;4.50;72.1;0.19;0.11;0.69;0.19;19.4;0.22;0.17;0.06;0.00;25.0;Matches;326d09ef
+9;Miguel Ángel Moyá;es ESP;GK;Real Sociedad;es La Liga;33;1984;9;9;765;8.5;0.94;0.94;3.88;2.82;81.8;0.35;0.24;0.47;0.24;22.2;0.35;0.24;0.12;0.00;33.3;Matches;011d8c56
+10;Alphonse Areola;fr FRA;GK;Paris S-G;fr Ligue 1;24;1993;34;34;3060;34.0;0.74;0.74;3.00;2.26;76.5;0.76;0.18;0.06;0.50;50.0;0.09;0.03;0.03;0.03;50.0;Matches;2f965a72
+11;Kepa Arrizabalaga;es ESP;GK;Athletic Club;es La Liga;22;1994;30;30;2700;30.0;1.43;1.43;4.53;3.13;69.1;0.23;0.30;0.47;0.23;23.3;0.10;0.03;0.07;0.00;66.7;Matches;28d596a0
+12;Sergio Asenjo;es ESP;GK;Villarreal;es La Liga;28;1989;23;23;2070;23.0;1.30;1.30;4.04;2.61;71.0;0.52;0.13;0.35;0.26;26.1;0.26;0.13;0.13;0.00;50.0;Matches;9f0ea33f
+13;Mariano Barbosa;ar ARG;GK;Villarreal;es La Liga;33;1984;13;12;1125;12.5;1.12;1.12;3.84;2.72;72.9;0.48;0.24;0.24;0.40;41.7;0.08;0.08;0.00;0.00;0.0;Matches;aad4f74f
+14;Oliver Baumann;de GER;GK;Hoffenheim;de Bundesliga;27;1990;34;34;3060;34.0;1.41;1.41;4.32;2.94;69.4;0.44;0.29;0.26;0.29;29.4;0.12;0.09;0.03;0.00;25.0;Matches;47064058
+15;Asmir Begovi?;ba BIH;GK;Bournemouth;eng Premier League;30;1987;38;38;3420;38.0;1.61;1.61;4.47;2.87;65.3;0.29;0.29;0.42;0.16;15.8;0.08;0.05;0.03;0.00;33.3;Matches;7b4de647
+16;Vid Belec;si SVN;GK;Benevento;it Serie A;27;1990;13;13;1113;12.4;2.18;2.18;5.97;3.95;67.6;0.16;0.00;0.89;0.08;7.7;0.24;0.24;0.00;0.00;0.0;Matches;4f8ce0e1
+17;Vid Belec;si SVN;GK;Sampdoria;it Serie A;27;1990;2;2;180;2.0;2.50;2.50;7.50;5.00;73.3;0.00;0.00;1.00;0.00;0.0;0.50;0.50;0.00;0.00;0.0;Matches;4f8ce0e1
+18;Diego Benaglio;ch SUI;GK;Monaco;fr Ligue 1;33;1983;3;2;225;2.5;0.00;0.00;2.40;2.40;100.0;0.80;0.00;0.00;1.20;150.0;0.00;0.00;0.00;0.00;;Matches;b7e7937d
+19;Walter Benítez;ar ARG;GK;Nice;fr Ligue 1;24;1993;28;28;2520;28.0;1.29;1.29;4.04;2.71;70.8;0.43;0.29;0.29;0.25;25.0;0.18;0.11;0.07;0.00;40.0;Matches;8a2248b4
+20;Etrit Berisha;al ALB;GK;Atalanta;it Serie A;28;1989;31;31;2790;31.0;1.10;1.10;3.19;2.06;66.7;0.42;0.32;0.26;0.26;25.8;0.06;0.03;0.03;0.00;50.0;Matches;ee833569
+21;Quentin Beunardeau;fr FRA;GK;Metz;fr Ligue 1;23;1994;1;0;38;0.4;5.00;4.74;10.0;5.00;50.0;0.00;0.00;0.00;0.00;;0.00;0.00;0.00;0.00;;Matches;15285503
+22;Albano Bizzarri;ar ARG;GK;Udinese;it Serie A;39;1977;32;32;2880;32.0;1.63;1.62;4.47;2.88;65.0;0.34;0.13;0.53;0.25;25.0;0.16;0.06;0.06;0.03;50.0;Matches;32b9b5fa
+23;Rubén Blanco;es ESP;GK;Celta Vigo;es La Liga;22;1995;22;22;1941;21.6;1.44;1.44;3.98;2.55;67.4;0.46;0.19;0.37;0.19;18.2;0.19;0.14;0.00;0.05;0.0;Matches;967f34d3
+24;Landry Bonnefoi;fr FRA;GK;Strasbourg;fr Ligue 1;33;1983;4;3;271;3.0;2.00;1.99;5.67;3.67;64.7;0.67;0.00;0.33;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;e65dd8dc
+25;Jean-Christophe Bouet;fr FRA;GK;Amiens;fr Ligue 1;34;1983;1;1;90;1.0;1.00;1.00;7.00;6.00;85.7;0.00;0.00;1.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;96908f80
+26;Yassine Bounou;ma MAR;GK;Girona;es La Liga;26;1991;30;30;2655;29.5;1.56;1.56;4.71;3.19;69.8;0.44;0.20;0.37;0.31;30.0;0.17;0.14;0.00;0.03;0.0;Matches;f6798fc3
+27;Claudio Bravo;cl CHI;GK;Manchester City;eng Premier League;34;1983;3;2;226;2.5;0.40;0.40;2.00;1.60;80.0;0.80;0.00;0.00;0.80;100.0;0.00;0.00;0.00;0.00;;Matches;10072610
+28;Alberto Brignoli;it ITA;GK;Benevento;it Serie A;25;1991;13;11;1126;12.5;2.48;2.48;5.60;3.12;58.6;0.08;0.16;0.64;0.08;9.1;0.32;0.16;0.00;0.16;0.0;Matches;6989550f
+29;Gianluigi Buffon;it ITA;GK;Juventus;it Serie A;39;1978;21;21;1862;20.7;0.68;0.68;2.71;2.08;80.4;0.82;0.10;0.10;0.53;52.4;0.19;0.14;0.05;0.00;25.0;Matches;e40d028b
+30;Roman Bürki;ch SUI;GK;Dortmund;de Bundesliga;26;1990;33;33;2969;33.0;1.30;1.30;4.39;3.09;72.4;0.45;0.27;0.27;0.36;36.4;0.09;0.09;0.00;0.00;0.0;Matches;9d12e142
+31;Ludovic Butelle;fr FRA;GK;Angers;fr Ligue 1;34;1983;19;19;1653;18.4;1.20;1.20;3.70;2.61;72.1;0.33;0.27;0.43;0.22;21.1;0.16;0.16;0.00;0.00;0.0;Matches;26975a92
+32;Jack Butland;eng ENG;GK;Stoke City;eng Premier League;24;1993;35;35;3150;35.0;1.74;1.74;5.74;4.06;72.1;0.20;0.31;0.49;0.17;17.1;0.14;0.14;0.00;0.00;0.0;Matches;cc70a1d5
+33;Willy Caballero;ar ARG;GK;Chelsea;eng Premier League;35;1981;3;3;270;3.0;1.33;1.33;3.67;2.33;63.6;0.33;0.33;0.33;0.33;33.3;0.00;0.00;0.00;0.00;;Matches;a179d516
+34;Yoan Cardinale;fr FRA;GK;Nice;fr Ligue 1;23;1994;10;10;900;10.0;1.60;1.60;4.10;2.60;61.0;0.30;0.10;0.60;0.30;30.0;0.00;0.00;0.00;0.00;;Matches;950ff24d
+35;Kiko Casilla;es ESP;GK;Real Madrid;es La Liga;30;1986;10;10;900;10.0;1.10;1.10;2.90;1.90;62.1;0.60;0.20;0.20;0.30;30.0;0.00;0.00;0.00;0.00;;Matches;58bc7d18
+36;Koen Casteels;be BEL;GK;Wolfsburg;de Bundesliga;25;1992;34;34;3060;34.0;1.41;1.41;4.50;3.06;72.5;0.18;0.44;0.38;0.24;23.5;0.26;0.18;0.09;0.00;33.3;Matches;db401046
+37;Petr ?ech;cz CZE;GK;Arsenal;eng Premier League;35;1982;34;34;3039;33.8;1.42;1.42;3.99;2.51;68.1;0.47;0.18;0.36;0.33;32.4;0.18;0.15;0.03;0.00;16.7;Matches;71672fa0
+38;Nereo Champagne;ar ARG;GK;Leganés;es La Liga;32;1985;2;2;180;2.0;3.00;3.00;4.50;1.50;44.4;0.00;0.00;1.00;0.00;0.0;0.50;0.50;0.00;0.00;0.0;Matches;7a9fae62
+39;Leandro Chichizola;ar ARG;GK;Las Palmas;es La Liga;27;1990;27;27;2430;27.0;1.74;1.74;5.52;3.81;70.5;0.15;0.19;0.67;0.15;14.8;0.11;0.11;0.00;0.00;0.0;Matches;8d957256
+40;Jasper Cillessen;nl NED;GK;Barcelona;es La Liga;28;1989;1;1;90;1.0;1.00;1.00;7.00;6.00;85.7;1.00;0.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;04ac8285
+41;Andrea Consigli;it ITA;GK;Sassuolo;it Serie A;30;1987;37;37;3316;36.8;1.58;1.57;4.67;3.10;67.4;0.30;0.27;0.43;0.27;27.0;0.08;0.05;0.03;0.00;33.3;Matches;8cabdc1e
+42;Alex Cordaz;it ITA;GK;Crotone;it Serie A;34;1983;38;38;3420;38.0;1.74;1.74;5.26;3.50;70.0;0.24;0.21;0.55;0.13;13.2;0.21;0.16;0.03;0.03;14.3;Matches;e66ebabb
+43;Angelo da Costa Júnior;br BRA;GK;Bologna;it Serie A;33;1983;4;4;360;4.0;1.25;1.25;4.25;3.00;76.5;0.25;0.00;0.75;0.25;25.0;0.25;0.25;0.00;0.00;0.0;Matches;18736214
+44;Benoît Costil;fr FRA;GK;Bordeaux;fr Ligue 1;30;1987;36;36;3240;36.0;1.25;1.25;3.42;2.08;66.7;0.44;0.19;0.36;0.28;27.8;0.22;0.11;0.11;0.00;50.0;Matches;2434f24a
+45;Thibaut Courtois;be BEL;GK;Chelsea;eng Premier League;25;1992;35;35;3150;35.0;0.97;0.97;3.03;2.11;69.8;0.57;0.17;0.26;0.43;42.9;0.06;0.06;0.00;0.00;0.0;Matches;1840e36d
+46;Alessio Cragno;it ITA;GK;Cagliari;it Serie A;23;1994;29;29;2536;28.2;1.67;1.67;4.61;2.91;68.5;0.25;0.18;0.60;0.25;24.1;0.35;0.21;0.07;0.07;25.0;Matches;f554e29b
+47;Luca Crosta;it ITA;GK;Cagliari;it Serie A;19;1998;1;1;90;1.0;3.00;3.00;3.00;0.00;33.3;0.00;0.00;1.00;0.00;0.0;1.00;1.00;0.00;0.00;0.0;Matches;a4ec7d09
+48;Iván Cuéllar;es ESP;GK;Leganés;es La Liga;33;1984;35;35;3150;35.0;1.23;1.23;3.97;2.71;72.7;0.31;0.20;0.49;0.40;40.0;0.17;0.14;0.03;0.00;16.7;Matches;75751c99
+49;Karl Darlow;eng ENG;GK;Newcastle Utd;eng Premier League;26;1990;10;10;900;10.0;1.50;1.50;4.70;3.40;74.5;0.10;0.50;0.40;0.20;20.0;0.30;0.30;0.00;0.00;0.0;Matches;cde3309f
+50;Abdoulaye Diallo;sn SEN;GK;Rennes;fr Ligue 1;25;1992;3;3;270;3.0;1.67;1.67;5.00;3.33;73.3;0.00;0.67;0.33;0.00;0.0;0.33;0.33;0.00;0.00;0.0;Matches;26383ea5
+51;Thomas Didillon;fr FRA;GK;Metz;fr Ligue 1;21;1995;9;9;810;9.0;1.56;1.56;3.89;2.44;68.6;0.11;0.11;0.78;0.22;22.2;0.33;0.33;0.00;0.00;0.0;Matches;a3d524cb
+52;Marko Dmitrovi?;rs SRB;GK;Eibar;es La Liga;25;1992;36;36;3240;36.0;1.36;1.36;3.44;2.17;63.7;0.36;0.22;0.42;0.28;27.8;0.11;0.11;0.00;0.00;0.0;Matches;ac295d9e
+53;Jaume Doménech;es ESP;GK;Valencia;es La Liga;26;1990;5;5;450;5.0;1.00;1.00;4.20;3.20;76.2;0.80;0.00;0.20;0.40;40.0;0.00;0.00;0.00;0.00;;Matches;c9cb972b
+54;Gianluigi Donnarumma;it ITA;GK;Milan;it Serie A;18;1999;38;38;3420;38.0;1.11;1.11;3.47;2.39;69.7;0.47;0.26;0.26;0.32;31.6;0.08;0.05;0.00;0.03;0.0;Matches;08f5afaa
+55;Bart?omiej Dr?gowski;pl POL;GK;Fiorentina;it Serie A;19;1997;3;1;217;2.4;3.33;3.32;7.08;3.75;52.9;0.00;0.00;0.42;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;085e71a7
+56;Martin Dúbravka;sk SVK;GK;Newcastle Utd;eng Premier League;28;1989;12;12;1080;12.0;0.92;0.92;3.08;2.08;70.3;0.50;0.08;0.42;0.33;33.3;0.08;0.00;0.08;0.00;100.0;Matches;3a949a25
+57;Maxime Dupé;fr FRA;GK;Nantes;fr Ligue 1;24;1993;1;1;90;1.0;3.00;3.00;5.00;2.00;60.0;0.00;0.00;1.00;0.00;0.0;1.00;1.00;0.00;0.00;0.0;Matches;0e12089d
+58;Ederson;br BRA;GK;Manchester City;eng Premier League;23;1993;36;36;3194;35.5;0.73;0.73;2.25;1.52;67.5;0.85;0.11;0.06;0.45;44.4;0.06;0.00;0.06;0.00;100.0;Matches;3bb7b8b4
+59;Rob Elliot;ie IRL;GK;Newcastle Utd;eng Premier League;31;1986;16;16;1440;16.0;1.31;1.31;4.00;2.69;68.8;0.31;0.13;0.56;0.19;18.8;0.13;0.06;0.06;0.00;50.0;Matches;b1b25949
+60;Michael Esser;de GER;GK;Hannover 96;de Bundesliga;29;1987;3;3;270;3.0;3.00;3.00;6.67;3.67;55.0;0.33;0.00;0.67;0.00;0.0;0.33;0.00;0.00;0.33;;Matches;83e0eeb4
+61;?ukasz Fabia?ski;pl POL;GK;Swansea City;eng Premier League;32;1985;38;38;3420;38.0;1.47;1.47;5.00;3.50;72.1;0.21;0.24;0.55;0.24;23.7;0.16;0.08;0.08;0.00;50.0;Matches;9328b835
+62;Ralf Fährmann;de GER;GK;Schalke 04;de Bundesliga;28;1988;34;34;3015;33.5;1.10;1.10;3.79;2.66;73.2;0.54;0.27;0.21;0.36;35.3;0.18;0.09;0.06;0.03;40.0;Matches;1e43fad8
+63;Andrés Fernández;es ESP;GK;Villarreal;es La Liga;30;1986;3;3;225;2.5;2.40;2.40;6.40;4.00;68.8;0.00;0.40;0.80;0.00;0.0;0.40;0.40;0.00;0.00;0.0;Matches;307fcd26
+64;Raúl Fernández;es ESP;GK;Levante;es La Liga;29;1988;11;11;990;11.0;1.36;1.36;4.82;3.45;71.7;0.18;0.55;0.27;0.27;27.3;0.00;0.00;0.00;0.00;;Matches;6fb59070
+65;Fraser Forster;eng ENG;GK;Southampton;eng Premier League;29;1988;20;20;1800;20.0;1.50;1.50;4.85;3.30;69.1;0.20;0.35;0.45;0.20;20.0;0.05;0.00;0.05;0.00;100.0;Matches;c3e39f12
+66;Ben Foster;eng ENG;GK;West Brom;eng Premier League;34;1983;37;37;3330;37.0;1.49;1.49;4.08;2.65;64.2;0.16;0.32;0.51;0.27;27.0;0.03;0.03;0.00;0.00;0.0;Matches;d0b3ceb9
+67;Paulo Gazzaniga;ar ARG;GK;Tottenham;eng Premier League;25;1992;1;1;90;1.0;0.00;0.00;3.00;3.00;100.0;1.00;0.00;0.00;1.00;100.0;0.00;0.00;0.00;0.00;;Matches;63d17038
+68;David de Gea;es ESP;GK;Manchester Utd;eng Premier League;26;1990;37;37;3330;37.0;0.76;0.76;3.78;3.08;80.7;0.65;0.16;0.19;0.49;48.6;0.03;0.03;0.00;0.00;0.0;Matches;7ba6d84e
+69;Rafa? Gikiewicz;pl POL;GK;Freiburg;de Bundesliga;29;1987;2;1;154;1.7;1.76;1.75;4.12;2.35;57.1;0.00;0.59;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;17376543
+70;Dani Giménez;es ESP;GK;Betis;es La Liga;34;1983;4;4;309;3.4;0.00;0.00;2.35;2.35;100.0;0.88;0.29;0.00;0.88;75.0;0.00;0.00;0.00;0.00;;Matches;7c218bf9
+71;Pierluigi Gollini;it ITA;GK;Atalanta;it Serie A;22;1995;7;7;622;6.9;0.58;0.58;2.46;1.88;76.5;0.43;0.29;0.29;0.43;42.9;0.00;0.00;0.00;0.00;;Matches;f0f7f62f
+72;Heurelho Gomes;br BRA;GK;Watford;eng Premier League;36;1981;24;24;2128;23.6;1.69;1.69;4.24;2.58;63.0;0.30;0.21;0.51;0.21;20.8;0.13;0.13;0.00;0.00;0.0;Matches;d596e193
+73;Alfred Gomis;sn SEN;GK;SPAL;it Serie A;23;1993;26;25;2261;25.1;1.71;1.71;5.58;3.90;73.6;0.24;0.28;0.48;0.12;12.0;0.28;0.24;0.04;0.00;14.3;Matches;cecbce23
+74;Mathieu Gorgelin;fr FRA;GK;Lyon;fr Ligue 1;26;1990;4;4;360;4.0;1.50;1.50;3.25;1.75;53.8;0.50;0.25;0.25;0.25;25.0;0.00;0.00;0.00;0.00;;Matches;4d3e9033
+75;Lee Grant;eng ENG;GK;Stoke City;eng Premier League;34;1983;3;3;270;3.0;2.33;2.33;5.00;2.67;53.3;0.00;0.33;0.67;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;9dab6e3b
+76;Vicente Guaita;es ESP;GK;Getafe;es La Liga;30;1987;33;33;2970;33.0;0.79;0.79;3.36;2.55;77.5;0.39;0.27;0.33;0.36;36.4;0.09;0.03;0.03;0.03;50.0;Matches;ab13a5aa
+77;Péter Gulácsi;hu HUN;GK;RB Leipzig;de Bundesliga;27;1990;33;33;2970;33.0;1.58;1.58;4.45;2.88;68.0;0.45;0.24;0.30;0.18;18.2;0.15;0.15;0.00;0.00;0.0;Matches;bcb2ccd8
+78;Régis Gurtner;fr FRA;GK;Amiens;fr Ligue 1;30;1986;37;37;3330;37.0;1.11;1.11;4.62;3.51;78.4;0.32;0.24;0.43;0.30;29.7;0.11;0.11;0.00;0.00;0.0;Matches;bc270726
+79;Ben Hamer;eng ENG;GK;Leicester City;eng Premier League;29;1987;4;3;275;3.1;2.26;2.29;4.19;1.94;53.8;0.00;0.32;0.65;0.32;33.3;0.32;0.32;0.00;0.00;0.0;Matches;d822a850
+80;Samir Handanovi?;si SVN;GK;Inter;it Serie A;33;1984;38;38;3420;38.0;0.79;0.79;3.08;2.39;76.1;0.53;0.32;0.16;0.45;44.7;0.05;0.05;0.00;0.00;0.0;Matches;74419746
+81;Joe Hart;eng ENG;GK;West Ham;eng Premier League;30;1987;19;19;1710;19.0;2.05;2.05;4.79;2.68;61.5;0.16;0.32;0.53;0.21;21.1;0.26;0.21;0.05;0.00;20.0;Matches;cb4f24c6
+82;Tom Heaton;eng ENG;GK;Burnley;eng Premier League;31;1986;4;4;305;3.4;1.18;1.18;3.53;2.35;66.7;0.59;0.29;0.29;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;a6de6361
+83;Wayne Hennessey;wls WAL;GK;Crystal Palace;eng Premier League;30;1987;27;27;2430;27.0;1.52;1.52;4.70;3.26;68.5;0.30;0.22;0.48;0.26;25.9;0.04;0.04;0.00;0.00;0.0;Matches;76eca7e2
+84;Iago Herrerín;es ESP;GK;Athletic Club;es La Liga;29;1988;8;8;720;8.0;0.75;0.75;3.75;2.88;86.7;0.38;0.50;0.13;0.50;50.0;0.38;0.25;0.13;0.00;33.3;Matches;9109185e
+85;Marwin Hitz;ch SUI;GK;Augsburg;de Bundesliga;29;1987;32;32;2880;32.0;1.31;1.31;4.97;3.63;74.2;0.31;0.31;0.38;0.28;28.1;0.06;0.03;0.03;0.00;50.0;Matches;2e7ff968
+86;Timo Horn;de GER;GK;Köln;de Bundesliga;24;1993;34;34;3060;34.0;2.06;2.06;5.91;3.82;69.2;0.15;0.21;0.65;0.15;14.7;0.26;0.24;0.03;0.00;11.1;Matches;3cd9e95a
+87;Lukáš Hrádecký;fi FIN;GK;Eint Frankfurt;de Bundesliga;27;1989;34;34;3060;34.0;1.32;1.32;3.91;2.65;67.7;0.41;0.21;0.38;0.21;20.6;0.09;0.06;0.00;0.03;0.0;Matches;ad3389d5
+88;Gorka Iraizoz;es ESP;GK;Girona;es La Liga;36;1981;9;8;765;8.5;1.53;1.53;4.24;2.94;63.9;0.12;0.35;0.47;0.24;25.0;0.00;0.00;0.00;0.00;;Matches;26f2473f
+89;Eldin Jakupovi?;ch SUI;GK;Leicester City;eng Premier League;32;1984;2;2;180;2.0;3.00;3.00;6.50;4.00;53.8;0.50;0.00;0.50;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;1148323a
+90;Rune Jarstein;no NOR;GK;Hertha BSC;de Bundesliga;32;1984;31;31;2790;31.0;1.42;1.42;4.52;3.13;72.1;0.32;0.32;0.35;0.23;22.6;0.19;0.16;0.00;0.03;0.0;Matches;27d2618c
+91;Karl-Johan Johnsson;se SWE;GK;Guingamp;fr Ligue 1;27;1990;38;38;3420;38.0;1.55;1.55;4.50;2.92;68.4;0.32;0.29;0.39;0.29;28.9;0.18;0.13;0.05;0.00;28.6;Matches;a56bd2ee
+92;Bingourou Kamara;sn SEN;GK;Strasbourg;fr Ligue 1;20;1996;19;19;1692;18.8;1.70;1.70;4.57;2.87;65.1;0.21;0.32;0.48;0.11;10.5;0.11;0.11;0.00;0.00;0.0;Matches;3814120d
+93;Loris Karius;de GER;GK;Liverpool;eng Premier League;24;1993;19;19;1710;19.0;0.74;0.74;2.37;1.58;73.3;0.58;0.26;0.16;0.53;52.6;0.16;0.11;0.05;0.00;33.3;Matches;32e7ce92
+94;Orestis Karnezis;gr GRE;GK;Watford;eng Premier League;32;1985;15;14;1292;14.4;1.67;1.67;3.89;2.22;62.5;0.28;0.21;0.49;0.28;28.6;0.21;0.21;0.00;0.00;0.0;Matches;85b011bb
+95;Eiji Kawashima;jp JPN;GK;Metz;fr Ligue 1;34;1983;29;29;2569;28.5;2.11;2.10;5.86;3.72;64.1;0.18;0.25;0.60;0.07;6.9;0.07;0.00;0.07;0.00;100.0;Matches;a4527d33
+96;Hervé Koffi;bf BFA;GK;Lille;fr Ligue 1;20;1996;4;4;360;4.0;2.75;2.75;5.00;2.50;50.0;0.00;0.25;0.75;0.00;0.0;0.25;0.25;0.00;0.00;0.0;Matches;faf873a7
+97;Tomáš Koubek;cz CZE;GK;Rennes;fr Ligue 1;24;1992;34;34;3060;34.0;1.06;1.06;3.74;2.68;73.2;0.47;0.24;0.29;0.29;29.4;0.15;0.06;0.06;0.03;50.0;Matches;dc366c36
+98;Maksym Koval;ua UKR;GK;La Coruña;es La Liga;24;1992;2;2;121;1.3;2.31;2.23;3.85;1.54;40.0;;0.77;0.77;;;;;;;;Matches;60713cb3
+99;Thomas Kraft;de GER;GK;Hertha BSC;de Bundesliga;29;1988;3;3;270;3.0;0.67;0.67;4.67;4.00;92.9;0.00;1.00;0.00;0.33;33.3;0.33;0.33;0.00;0.00;0.0;Matches;bb25c778
+100;Alban Lafont;fr FRA;GK;Toulouse;fr Ligue 1;18;1999;38;38;3420;38.0;1.42;1.42;4.16;2.79;69.6;0.24;0.26;0.50;0.32;31.6;0.16;0.16;0.00;0.00;0.0;Matches;4e7db402
+101;Eugenio Lamanna;it ITA;GK;Genoa;it Serie A;27;1989;1;1;90;1.0;1.00;1.00;3.00;2.00;66.7;0.00;0.00;1.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;349601c3
+102;Benjamin Lecomte;fr FRA;GK;Montpellier;fr Ligue 1;26;1991;38;38;3420;38.0;0.87;0.87;3.08;2.21;76.1;0.29;0.47;0.24;0.37;36.8;0.16;0.13;0.00;0.03;0.0;Matches;2fa2a875
+103;Bernd Leno;de GER;GK;Leverkusen;de Bundesliga;25;1992;33;33;2970;33.0;1.21;1.21;3.33;2.12;68.2;0.45;0.30;0.24;0.30;30.3;0.15;0.15;0.00;0.00;0.0;Matches;2628fd2b
+104;Alexandre Letellier;fr FRA;GK;Angers;fr Ligue 1;26;1990;13;13;1170;13.0;1.31;1.31;3.38;2.15;65.9;0.15;0.54;0.31;0.08;7.7;0.15;0.15;0.00;0.00;0.0;Matches;96fcd380
+105;Raúl Lizoain;es ESP;GK;Las Palmas;es La Liga;26;1991;11;11;990;11.0;2.45;2.45;6.00;3.55;62.1;0.09;0.18;0.73;0.09;9.1;0.18;0.18;0.00;0.00;0.0;Matches;f69e9eee
+106;Hugo Lloris;fr FRA;GK;Tottenham;eng Premier League;30;1986;36;36;3240;36.0;0.97;0.97;3.25;2.28;71.8;0.61;0.19;0.19;0.42;41.7;0.08;0.06;0.00;0.03;0.0;Matches;8f62b6ee
+107;Anthony Lopes;pt POR;GK;Lyon;fr Ligue 1;26;1990;34;34;3060;34.0;1.09;1.09;4.03;2.97;76.6;0.62;0.24;0.15;0.41;41.2;0.24;0.15;0.06;0.03;28.6;Matches;f00de885
+108;Diego López;es ESP;GK;Espanyol;es La Liga;35;1981;10;10;854;9.5;1.16;1.16;4.21;3.16;75.0;0.32;0.53;0.21;0.32;30.0;0.21;0.11;0.11;0.00;50.0;Matches;73683fa9
+109;Pau López;es ESP;GK;Espanyol;es La Liga;22;1994;29;28;2566;28.5;1.09;1.09;4.35;3.23;77.4;0.32;0.28;0.39;0.32;32.1;0.14;0.11;0.04;0.00;25.0;Matches;20b9f052
+110;Pedro López;es ESP;GK;Betis;es La Liga;22;1995;5;4;411;4.6;1.74;1.75;3.48;1.74;50.0;0.22;0.22;0.43;0.22;25.0;0.00;0.00;0.00;0.00;;Matches;bfa29677
+111;Jonas Lössl;dk DEN;GK;Huddersfield;eng Premier League;28;1989;38;38;3420;38.0;1.53;1.53;4.16;2.61;65.8;0.24;0.26;0.50;0.26;26.3;0.16;0.11;0.05;0.00;33.3;Matches;939bc634
+112;Andreas Luthe;de GER;GK;Augsburg;de Bundesliga;30;1987;2;2;180;2.0;2.00;2.00;3.50;1.50;57.1;0.00;0.50;0.50;0.00;0.0;0.50;0.50;0.00;0.00;0.0;Matches;7fe12375
+113;Raïs M'Bolhi;dz ALG;GK;Rennes;fr Ligue 1;31;1986;1;1;90;1.0;3.00;3.00;6.00;3.00;83.3;0.00;0.00;1.00;0.00;0.0;2.00;2.00;0.00;0.00;0.0;Matches;c121a641
+114;Mike Maignan;fr FRA;GK;Lille;fr Ligue 1;22;1995;34;34;3032;33.7;1.57;1.57;4.75;3.18;68.8;0.30;0.21;0.50;0.15;14.7;0.15;0.09;0.06;0.00;40.0;Matches;fcb38f57
+115;Steve Mandanda;fr FRA;GK;Marseille;fr Ligue 1;32;1985;31;31;2706;30.0;1.23;1.23;3.80;2.57;70.2;0.60;0.30;0.13;0.37;35.5;0.17;0.10;0.03;0.03;25.0;Matches;1d2d5cc8
+116;Gabriele Marchegiani;it ITA;GK;SPAL;it Serie A;21;1996;1;0;1;0.0;0;0.00;0;0;;0;0;0;0;;0;0;0;0;;Matches;8cf63012
+117;Emiliano Martínez;ar ARG;GK;Getafe;es La Liga;24;1992;5;5;450;5.0;1.40;1.40;3.80;2.40;68.4;0.40;0.20;0.40;0.40;40.0;0.20;0.20;0.00;0.00;0.0;Matches;7956236f
+118;Christian Mathenia;de GER;GK;Hamburger SV;de Bundesliga;25;1992;24;24;2160;24.0;1.58;1.58;3.96;2.42;63.2;0.17;0.25;0.58;0.25;25.0;0.17;0.13;0.00;0.04;0.0;Matches;4a15e95b
+119;Alex McCarthy;eng ENG;GK;Southampton;eng Premier League;27;1989;18;18;1620;18.0;1.44;1.44;3.78;2.33;63.2;0.17;0.44;0.39;0.22;22.2;0.06;0.06;0.00;0.00;0.0;Matches;36c2ca73
+120;Brais Méndez;es ESP;MFFW;Celta Vigo;es La Liga;20;1997;1;0;;10.5;;;;;;;;;;;;;;;;Matches;c9e39d91
+121;Alex Meret;it ITA;GK;SPAL;it Serie A;20;1997;13;13;1158;12.9;1.24;1.24;4.65;3.41;78.3;0.16;0.54;0.31;0.31;30.8;0.39;0.23;0.16;0.00;40.0;Matches;9413b19f
+122;Mathieu Michel;fr FRA;GK;Angers;fr Ligue 1;25;1991;7;6;597;6.6;1.97;1.96;3.94;2.12;57.7;0.15;0.30;0.45;0.15;16.7;0.30;0.30;0.00;0.00;0.0;Matches;e39f8724
+123;Simon Mignolet;be BEL;GK;Liverpool;eng Premier League;29;1988;19;19;1710;19.0;1.26;1.26;3.11;1.79;62.7;0.53;0.37;0.11;0.37;36.8;0.16;0.11;0.05;0.00;33.3;Matches;d436eb94
+124;Vanja Milinkovi?-Savi?;rs SRB;GK;Torino;it Serie A;20;1997;1;1;90;1.0;1.00;1.00;2.00;1.00;50.0;1.00;0.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;9fa26bc2
+125;Antonio Mirante;it ITA;GK;Bologna;it Serie A;34;1983;33;33;2970;33.0;1.39;1.39;4.36;3.06;69.4;0.30;0.15;0.55;0.21;21.2;0.09;0.06;0.00;0.03;0.0;Matches;30223b33
+126;Jessy Moulin;fr FRA;GK;Saint-Étienne;fr Ligue 1;31;1986;4;3;304;3.4;1.76;1.78;8.53;6.76;82.8;0.29;0.00;0.59;0.29;33.3;0.29;0.29;0.00;0.00;0.0;Matches;28a65a2c
+127;Florian Müller;de GER;GK;Mainz 05;de Bundesliga;19;1997;5;5;450;5.0;1.40;1.40;4.20;2.60;66.7;0.20;0.20;0.60;0.20;20.0;0.20;0.00;0.20;0.00;100.0;Matches;cbac6ec9
+128;Yvon Mvogo;ch SUI;GK;RB Leipzig;de Bundesliga;23;1994;1;1;90;1.0;1.00;1.00;4.00;3.00;75.0;0.00;0.00;1.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;dc29b608
+129;Boaz Myhill;wls WAL;GK;West Brom;eng Premier League;34;1982;1;1;90;1.0;1.00;1.00;3.00;2.00;66.7;0.00;1.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;7ca2d989
+130;Keylor Navas;cr CRC;GK;Real Madrid;es La Liga;30;1986;27;27;2430;27.0;1.15;1.15;4.11;2.93;73.9;0.59;0.26;0.15;0.26;25.9;0.15;0.07;0.07;0.00;50.0;Matches;ecada4fc
+131;Neto;br BRA;GK;Valencia;es La Liga;28;1989;33;33;2970;33.0;1.00;1.00;4.33;3.27;79.0;0.55;0.21;0.24;0.30;30.3;0.15;0.09;0.06;0.00;40.0;Matches;a9dc785c
+132;Manuel Neuer;de GER;GK;Bayern Munich;de Bundesliga;31;1986;3;3;270;3.0;0.67;0.67;2.33;1.67;71.4;0.67;0.00;0.33;0.67;66.7;0.00;0.00;0.00;0.00;;Matches;8778c910
+133;Alexander Nübel;de GER;GK;Schalke 04;de Bundesliga;20;1996;1;0;45;0.5;0.00;0.00;4.00;4.00;100.0;0.00;0.00;0.00;2.00;;0.00;0.00;0.00;0.00;;Matches;afb0c500
+134;Jan Oblak;si SVN;GK;Atlético Madrid;es La Liga;24;1993;37;37;3330;37.0;0.59;0.59;3.41;2.76;83.3;0.59;0.27;0.14;0.59;59.5;0.11;0.03;0.08;0.00;75.0;Matches;ee8508c0
+135;Oier Olazábal;es ESP;GK;Levante;es La Liga;27;1989;26;26;2340;26.0;1.50;1.50;4.69;3.27;72.1;0.35;0.27;0.38;0.27;26.9;0.23;0.19;0.00;0.04;0.0;Matches;b5bdf144
+136;David Ospina;co COL;GK;Arsenal;eng Premier League;28;1988;5;4;381;4.2;0.71;0.71;2.86;2.14;75.0;0.71;0.00;0.24;0.48;50.0;0.00;0.00;0.00;0.00;;Matches;82b1198a
+137;Alexandre Oukidja;dz ALG;GK;Strasbourg;fr Ligue 1;29;1988;17;16;1457;16.2;1.79;1.79;4.38;2.53;64.8;0.19;0.31;0.49;0.12;12.5;0.31;0.25;0.06;0.00;20.0;Matches;ae7d0ecd
+138;Ramazan Özcan;at AUT;GK;Leverkusen;de Bundesliga;33;1984;1;1;90;1.0;4.00;4.00;8.00;3.00;50.0;0.00;0.00;1.00;0.00;0.0;1.00;0.00;1.00;0.00;100.0;Matches;a165a577
+139;Fernando Pacheco;es ESP;GK;Alavés;es La Liga;25;1992;38;37;3357;37.3;1.34;1.34;4.58;3.24;74.9;0.40;0.05;0.54;0.32;32.4;0.27;0.19;0.05;0.03;22.2;Matches;97852360
+140;Costel Pantilimon;ro ROU;GK;La Coruña;es La Liga;30;1987;6;6;540;6.0;1.50;1.50;4.33;3.00;69.2;0.50;0.00;0.50;0.17;16.7;0.17;0.17;0.00;0.00;0.0;Matches;d24e154c
+141;Ji?í Pavlenka;cz CZE;GK;Werder Bremen;de Bundesliga;25;1992;34;34;3060;34.0;1.18;1.18;4.76;3.62;76.5;0.29;0.35;0.35;0.24;23.5;0.12;0.06;0.03;0.03;33.3;Matches;0a1cb833
+142;Gianluca Pegolo;it ITA;GK;Sassuolo;it Serie A;36;1981;2;1;104;1.2;0.83;0.87;5.00;5.00;83.3;0.00;0.00;0.83;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;f058ed1f
+143;Yohann Pelé;fr FRA;GK;Marseille;fr Ligue 1;34;1982;9;7;714;8.2;1.22;1.26;3.29;2.20;66.7;0.49;0.24;0.12;0.37;42.9;0.12;0.12;0.00;0.00;0.0;Matches;76806215
+144;Mattia Perin;it ITA;GK;Genoa;it Serie A;24;1992;37;37;3330;37.0;1.14;1.14;4.51;3.43;77.2;0.30;0.22;0.49;0.32;32.4;0.11;0.11;0.00;0.00;0.0;Matches;4c62d0c8
+145;Jordan Pickford;eng ENG;GK;Everton;eng Premier League;23;1994;38;38;3420;38.0;1.53;1.53;4.68;3.13;69.1;0.34;0.26;0.39;0.26;26.3;0.13;0.08;0.03;0.03;25.0;Matches;4806ec67
+146;Carlo Pinsoglio;it ITA;GK;Juventus;it Serie A;27;1990;1;0;28;0.3;3.33;3.21;6.67;3.33;50.0;0.00;0.00;0.00;0.00;;0.00;0.00;0.00;0.00;;Matches;f6a06749
+147;Julian Pollersbeck;de GER;GK;Hamburger SV;de Bundesliga;22;1994;10;10;900;10.0;1.50;1.50;4.70;3.20;68.1;0.40;0.10;0.50;0.10;10.0;0.00;0.00;0.00;0.00;;Matches;d6f6ce93
+148;Nick Pope;eng ENG;GK;Burnley;eng Premier League;25;1992;35;34;3115;34.6;1.01;1.01;4.28;3.27;78.4;0.35;0.32;0.32;0.35;35.3;0.14;0.09;0.03;0.03;25.0;Matches;4b40d9ca
+149;Nicolas de Préville;fr FRA;FWMF;Lille;fr Ligue 1;26;1991;1;0;11;3.2;0.31;8.18;0.63;0.31;50.0;0.00;0.00;0.00;0.00;;0.00;0.00;0.00;0.00;;Matches;b0547a87
+150;Andrés Prieto;es ESP;GK;Málaga;es La Liga;23;1993;4;4;360;4.0;2.50;2.50;5.00;2.50;60.0;0.00;0.00;1.00;0.00;0.0;0.50;0.50;0.00;0.00;0.0;Matches;113fb4ea
+151;Jérôme Prior;fr FRA;GK;Bordeaux;fr Ligue 1;21;1995;2;2;180;2.0;1.50;1.50;4.50;3.00;66.7;0.00;0.00;1.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;1061c207
+152;Christian Puggioni;it ITA;GK;Benevento;it Serie A;36;1981;14;14;1179;13.1;1.98;1.98;4.96;2.98;67.7;0.23;0.08;0.76;0.15;14.3;0.46;0.38;0.00;0.08;0.0;Matches;b39dfab0
+153;Christian Puggioni;it ITA;GK;Sampdoria;it Serie A;36;1981;9;9;810;9.0;1.33;1.33;5.89;4.56;83.0;0.56;0.22;0.22;0.33;33.3;0.33;0.33;0.00;0.00;0.0;Matches;b39dfab0
+154;Rafael;br BRA;GK;Cagliari;it Serie A;35;1982;10;8;794;8.8;1.25;1.25;4.43;3.18;74.4;0.45;0.11;0.34;0.11;12.5;0.11;0.11;0.00;0.00;0.0;Matches;dd06d56c
+155;Toño Ramírez;es ESP;GK;Real Sociedad;es La Liga;30;1986;4;3;315;3.5;1.71;1.71;3.14;1.43;45.5;0.29;0.00;0.57;0.57;66.7;0.00;0.00;0.00;0.00;;Matches;dc4511f3
+156;Pepe Reina;es ESP;GK;Napoli;it Serie A;34;1982;37;37;3330;37.0;0.78;0.78;2.62;1.84;72.2;0.76;0.16;0.08;0.49;48.6;0.05;0.05;0.00;0.00;0.0;Matches;e358587b
+157;Baptiste Reynet;fr FRA;GK;Dijon;fr Ligue 1;26;1990;38;38;3420;38.0;1.92;1.92;5.29;3.37;69.2;0.34;0.24;0.42;0.13;13.2;0.37;0.29;0.08;0.00;21.4;Matches;bcf1b2e9
+158;Sergio Rico;es ESP;GK;Sevilla;es La Liga;23;1993;24;23;2155;24.0;1.63;1.63;3.83;2.17;60.9;0.42;0.13;0.42;0.38;39.1;0.21;0.13;0.04;0.04;25.0;Matches;5f0241b2
+159;Asier Riesgo;es ESP;GK;Eibar;es La Liga;33;1983;1;1;90;1.0;1.00;1.00;5.00;4.00;80.0;1.00;0.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;581c5276
+160;Roberto;es ESP;GK;Málaga;es La Liga;31;1986;34;34;3060;34.0;1.50;1.50;4.41;2.88;68.7;0.15;0.15;0.71;0.18;17.6;0.15;0.12;0.03;0.00;20.0;Matches;ba3ca78f
+161;Sergio Romero;ar ARG;GK;Manchester Utd;eng Premier League;30;1987;1;1;90;1.0;0.00;0.00;3.00;3.00;100.0;1.00;0.00;0.00;1.00;100.0;0.00;0.00;0.00;0.00;;Matches;1e26e376
+162;Francesco Rossi;it ITA;GK;Atalanta;it Serie A;26;1991;1;0;8;0.1;10.0;11.25;20.0;10.0;50.0;0.00;0.00;0.00;0.00;;0.00;0.00;0.00;0.00;;Matches;7b5f516f
+163;Rubén;es ESP;GK;La Coruña;es La Liga;33;1984;28;27;2477;27.5;2.11;2.11;4.87;2.80;58.2;0.11;0.33;0.55;0.15;14.8;0.11;0.07;0.04;0.00;33.3;Matches;24279b8b
+164;Stéphane Ruffier;fr FRA;GK;Saint-Étienne;fr Ligue 1;30;1986;35;35;3112;34.6;1.27;1.27;4.34;3.06;74.0;0.40;0.29;0.32;0.35;34.3;0.17;0.14;0.03;0.00;16.7;Matches;cac76a72
+165;Gerónimo Rulli;ar ARG;GK;Real Sociedad;es La Liga;25;1992;26;26;2340;26.0;1.73;1.73;4.04;2.35;61.0;0.38;0.19;0.42;0.23;23.1;0.19;0.15;0.04;0.00;20.0;Matches;625c144a
+166;Mathew Ryan;au AUS;GK;Brighton;eng Premier League;25;1992;38;38;3420;38.0;1.42;1.42;4.53;3.18;69.2;0.24;0.34;0.42;0.26;26.3;0.08;0.03;0.05;0.00;66.7;Matches;4535e4bb
+167;Mamadou Samassa;ml MLI;GK;Troyes;fr Ligue 1;27;1990;21;21;1890;21.0;1.48;1.48;4.81;3.33;71.3;0.29;0.14;0.57;0.24;23.8;0.14;0.10;0.05;0.00;33.3;Matches;cfe852d8
+168;Brice Samba;cg CGO;GK;Caen;fr Ligue 1;23;1994;4;3;315;3.5;1.14;1.14;5.43;4.29;84.2;0.29;0.29;0.29;0.57;66.7;0.29;0.29;0.00;0.00;0.0;Matches;60d90c55
+169;Antonio Santurro;do DOM;GK;Bologna;it Serie A;25;1992;1;1;90;1.0;1.00;1.00;5.00;4.00;80.0;0.00;1.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;61228681
+170;Kasper Schmeichel;dk DEN;GK;Leicester City;eng Premier League;30;1986;33;33;2965;32.9;1.43;1.43;4.19;2.74;66.7;0.33;0.30;0.36;0.24;24.2;0.09;0.03;0.06;0.00;66.7;Matches;53af52f3
+171;Alexander Schwolow;de GER;GK;Freiburg;de Bundesliga;25;1992;33;33;2906;32.3;1.64;1.64;4.67;3.16;67.5;0.25;0.34;0.43;0.28;27.3;0.15;0.12;0.00;0.03;0.0;Matches;0d55d942
+172;Simone Scuffet;it ITA;GK;Udinese;it Serie A;21;1996;6;6;540;6.0;1.83;1.83;4.50;2.67;59.3;0.17;0.00;0.83;0.17;16.7;0.17;0.00;0.17;0.00;100.0;Matches;41bd99ea
+173;Luigi Sepe;it ITA;GK;Napoli;it Serie A;26;1991;1;1;90;1.0;0.00;0.00;1.00;1.00;100.0;0.00;1.00;0.00;1.00;100.0;0.00;0.00;0.00;0.00;;Matches;343f753a
+174;Marco Silvestri;it ITA;GK;Hellas Verona;it Serie A;26;1991;2;2;180;2.0;3.50;3.50;12.5;9.00;72.0;0.00;0.00;1.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;0d422df7
+175;Tobias Sippel;de GER;GK;M'Gladbach;de Bundesliga;29;1988;5;4;435;4.8;2.08;2.07;4.79;2.71;56.5;0.21;0.00;0.63;0.21;25.0;0.00;0.00;0.00;0.00;;Matches;0d8a37c2
+176;Salvatore Sirigu;it ITA;GK;Torino;it Serie A;30;1987;37;37;3330;37.0;1.22;1.22;4.27;2.97;74.7;0.32;0.41;0.27;0.27;27.0;0.22;0.14;0.08;0.00;37.5;Matches;10dc46f0
+177;Antonio Sivera;es ESP;GK;Alavés;es La Liga;20;1996;1;1;63;0.7;;;1.43;1.43;;;;1.43;;;;;;;;Matches;9970da54
+178;?ukasz Skorupski;pl POL;GK;Roma;it Serie A;26;1991;1;1;90;1.0;0.00;0.00;3.00;3.00;100.0;1.00;0.00;0.00;1.00;100.0;0.00;0.00;0.00;0.00;;Matches;ab4449d6
+179;Yann Sommer;ch SUI;GK;M'Gladbach;de Bundesliga;28;1988;30;30;2625;29.2;1.44;1.44;5.17;3.77;74.8;0.41;0.27;0.34;0.21;20.0;0.14;0.14;0.00;0.00;0.0;Matches;420c18a1
+180;David Soria;es ESP;GK;Sevilla;es La Liga;24;1993;15;15;1265;14.0;1.36;1.35;4.14;2.86;70.7;0.50;0.29;0.29;0.36;33.3;0.21;0.14;0.00;0.07;0.0;Matches;8f8c6934
+181;Stefano Sorrentino;it ITA;GK;Chievo;it Serie A;38;1979;38;38;3420;38.0;1.55;1.55;4.92;3.39;70.6;0.26;0.26;0.47;0.18;18.4;0.18;0.11;0.08;0.00;42.9;Matches;048877f5
+182;Julián Speroni;ar ARG;GK;Crystal Palace;eng Premier League;38;1979;11;11;990;11.0;1.27;1.27;3.91;2.64;69.8;0.27;0.45;0.27;0.18;18.2;0.09;0.09;0.00;0.00;0.0;Matches;8e65a5e5
+183;Marco Sportiello;it ITA;GK;Fiorentina;it Serie A;25;1992;37;37;3202;35.6;1.07;1.07;3.68;2.58;72.5;0.45;0.25;0.34;0.39;37.8;0.08;0.06;0.03;0.00;33.3;Matches;ac4003af
+184;Tom Starke;de GER;GK;Bayern Munich;de Bundesliga;36;1981;2;2;180;2.0;0.00;0.00;2.00;2.00;100.0;1.00;0.00;0.00;1.00;100.0;0.00;0.00;0.00;0.00;;Matches;5b52d1f7
+185;Thomas Strakosha;al ALB;GK;Lazio;it Serie A;22;1995;38;38;3420;38.0;1.29;1.29;4.18;2.92;74.8;0.55;0.24;0.21;0.29;28.9;0.26;0.24;0.03;0.00;10.0;Matches;339fe0e8
+186;Danijel Subaši?;hr CRO;GK;Monaco;fr Ligue 1;32;1984;34;34;2940;32.7;1.25;1.26;3.82;2.60;70.4;0.64;0.24;0.15;0.31;29.4;0.12;0.12;0.00;0.00;0.0;Matches;f6db3bd5
+187;Seydou Sy;sn SEN;GK;Monaco;fr Ligue 1;21;1995;3;2;255;2.8;1.43;1.41;5.71;4.29;81.3;0.36;0.00;0.36;0.36;50.0;0.36;0.36;0.00;0.00;0.0;Matches;8417953b
+188;Wojciech Szcz?sny;pl POL;GK;Juventus;it Serie A;27;1990;17;17;1530;17.0;0.53;0.53;1.94;1.41;72.7;0.76;0.18;0.06;0.65;64.7;0.00;0.00;0.00;0.00;;Matches;01b8a2b2
+189;Ciprian T?t?ru?anu;ro ROU;GK;Nantes;fr Ligue 1;31;1986;37;37;3330;37.0;1.03;1.03;3.59;2.59;72.9;0.38;0.27;0.35;0.32;32.4;0.08;0.05;0.00;0.03;0.0;Matches;b056e3da
+190;Marc-André ter Stegen;de GER;GK;Barcelona;es La Liga;25;1992;37;37;3330;37.0;0.76;0.76;3.41;2.65;79.4;0.73;0.24;0.03;0.51;51.4;0.05;0.05;0.00;0.00;0.0;Matches;6f51e382
+191;Kevin Trapp;de GER;GK;Paris S-G;fr Ligue 1;27;1990;4;4;360;4.0;1.00;1.00;4.25;3.25;88.2;0.75;0.00;0.25;0.25;25.0;0.50;0.50;0.00;0.00;0.0;Matches;ce17b5eb
+192;Philipp Tschauner;de GER;GK;Hannover 96;de Bundesliga;31;1985;31;31;2790;31.0;1.45;1.45;5.10;3.65;72.8;0.29;0.29;0.42;0.16;16.1;0.10;0.06;0.00;0.03;0.0;Matches;73e2f6eb
+193;Przemys?aw Tyto?;pl POL;GK;La Coruña;es La Liga;30;1987;2;1;97;1.1;3.64;3.71;4.55;0.91;20.0;0.00;0.00;0.91;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;1fa85681
+194;Sven Ulreich;de GER;GK;Bayern Munich;de Bundesliga;28;1988;29;29;2610;29.0;0.90;0.90;2.90;2.00;70.2;0.79;0.10;0.10;0.41;41.4;0.14;0.03;0.10;0.00;75.0;Matches;7d3e7da6
+195;Francis Uzoho;ng NGA;GK;La Coruña;es La Liga;18;1998;2;2;180;2.0;1.00;1.00;4.50;3.50;88.9;0.00;0.50;0.50;0.50;50.0;0.50;0.50;0.00;0.00;0.0;Matches;cfd68aa7
+196;Koke Vegas;es ESP;GK;Levante;es La Liga;21;1995;1;1;90;1.0;4.00;4.00;8.00;4.00;50.0;0.00;0.00;1.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;bfb15d99
+197;Rémy Vercoutre;fr FRA;GK;Caen;fr Ligue 1;37;1980;35;35;3103;34.5;1.39;1.39;3.83;2.55;66.7;0.26;0.20;0.55;0.32;31.4;0.12;0.12;0.00;0.00;0.0;Matches;1d0900d4
+198;Emiliano Viviano;it ITA;GK;Sampdoria;it Serie A;31;1985;27;27;2430;27.0;1.59;1.59;4.89;3.22;68.9;0.41;0.15;0.44;0.22;22.2;0.22;0.07;0.15;0.00;66.7;Matches;03760df0
+199;Michel Vorm;nl NED;GK;Tottenham;eng Premier League;33;1983;1;1;90;1.0;1.00;1.00;4.00;4.00;75.0;0.00;1.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;1bebde9d
+200;Roman Weidenfeller;de GER;GK;Dortmund;de Bundesliga;36;1980;2;1;91;1.0;4.00;3.96;7.00;3.00;42.9;0.00;1.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;16b8fabd
+201;Axel Werner;ar ARG;GK;Atlético Madrid;es La Liga;21;1996;1;1;90;1.0;0.00;0.00;3.00;3.00;100.0;1.00;0.00;0.00;1.00;100.0;0.00;0.00;0.00;0.00;;Matches;c0b1a6da
+202;Yoel;es ESP;GK;Eibar;es La Liga;28;1988;1;1;90;1.0;0.00;0.00;5.00;5.00;100.0;0.00;1.00;0.00;1.00;100.0;0.00;0.00;0.00;0.00;;Matches;61bb7498
+203;Erwin Zelazny;fr FRA;GK;Troyes;fr Ligue 1;25;1991;17;17;1530;17.0;1.65;1.65;5.41;3.76;71.7;0.18;0.18;0.65;0.18;17.6;0.12;0.12;0.00;0.00;0.0;Matches;e750cba4
+204;Robin Zentner;de GER;GK;Mainz 05;de Bundesliga;22;1994;15;15;1350;15.0;1.80;1.80;4.67;2.93;67.1;0.20;0.33;0.47;0.13;13.3;0.27;0.27;0.00;0.00;0.0;Matches;5c4bf6ba
+205;Luca Zidane;fr FRA;GK;Real Madrid;es La Liga;19;1998;1;1;90;1.0;2.00;2.00;4.00;2.00;50.0;0.00;1.00;0.00;0.00;0.0;0.00;0.00;0.00;0.00;;Matches;c818c4d9
+206;Ron-Robert Zieler;de GER;GK;Stuttgart;de Bundesliga;28;1989;34;34;3060;34.0;1.06;1.06;4.56;3.44;79.4;0.44;0.18;0.38;0.35;35.3;0.18;0.12;0.06;0.00;33.3;Matches;a0606ae8
