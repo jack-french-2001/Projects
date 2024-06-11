@@ -1,0 +1,1 @@
+Implemented a Logistic Regression algorithm and multiple K-Nearest Neighbour derived algorithms from scratch using numpy.
