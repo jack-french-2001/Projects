@@ -9,3 +9,10 @@ Through access to flight tracking data made available by NATS (National Air Traf
 There are multiple filtering operations which can be performed and a heatmap can be superimposed on the scatter plot in order to visualise hotspots.
 
 This dashboard was produced in Python using the Bokeh visualisation package. 
+
+### Dashboard Demonstration
+
+For confidentiality purposes I am not able to publish the code or data used to make the dashboard. However, here is a link to a demonstration of the dashboard's functionalities:
+
+
+
